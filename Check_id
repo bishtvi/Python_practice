@@ -1,0 +1,19 @@
+import requests
+from pprint import pp
+
+import json
+import csv
+
+field_names = ['Name', 'URL', 'Host', 'Email ID', 'User ID']
+
+token = 'QkspEzkm2ItImYWaV_k2WRurqmHfQM6NNMdA7SnWw9zxsjpJPa21wFHF9doXTBkjE5F14uE'
+head = {'Authorization': 'Bearer {}'.format(token)}
+
+
+def get_check_ids():
+    r = requests.get("https://api.pingdom.com/api/3.1/checks", headers=head).json()
+    checks = r.get('checks')
+    check_ids = []
+    for check in checks:
+        check_ids.append(check.get('id'))
+    return check_ids

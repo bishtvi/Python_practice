@@ -13,3 +13,10 @@ while x >=1:
         y = y+1
     x = x-1
     print()
+
+x = 0
+total = 0
+while x<=100:
+    total = total + x
+    x = x +1
+print(total)

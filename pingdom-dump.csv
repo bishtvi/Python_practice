@@ -1,0 +1,375 @@
+Name,URL,Host,Email ID,User ID
+Login / Sign In SSL [www.groupon.com] [US],/login,www.groupon.com,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",142651
+Local Chicago [SEO] [www.groupon.com] [US],/local/chicago,www.groupon.com,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",142658
+Deal Images [www.groupon.com] [US],/images/site_images/0969/3650/Emerald-Downs-2.jpg,www.groupon.com,[],345030
+Occasions [www.groupon.com] [US],/occasions,www.groupon.com,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",740435
+Goods [www.groupon.com] [US],/goods,www.groupon.com,"['goods-cx-eng@groupon.com', 'goods-eng-alert@groupon.com', 'goods-gst@groupondev.opsgenie.net']",928280
+iTier Checkout [www.groupon.com] [US],/checkout/js/locale.js,www.groupon.com,['i-tier-devs@groupon.com'],1034228
+Mobile App Download [www.groupon.com] [US],/mobile,www.groupon.com,"['i-tier-mobile-redirect-page@groupon.pagerduty.com', 'i-tier-mobile-redirect-page@groupondev.opsgenie.net']",1125584
+Giftcards [www.groupon.com] [US],/giftcards,www.groupon.com,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",1143907
+Layout Service,/layout/index.json,www.groupon.com,"['i-tier-devs@groupon.com', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1147384
+Cart [www.groupon.com] [US],/cart,www.groupon.com,['checkout@groupon.com'],1147463
+My Profile [www.groupon.com] [US],/myprofile,www.groupon.com,"['personalize-alerts@groupon.com', 'mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",1165674
+Customer Support [www.groupon.com] [US],/customer_support,www.groupon.com,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",1167255
+Homepage [www.groupon.com] [US],/,www.groupon.com,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1185002
+Local Search [NAM] - No viewable pizza deals,"/browse/san-jose?lat=37.3393857&lng=-121.89495549999998&address=San+Jose,+CA,+USA&query=pizza&locale=en_US",www.groupon.com,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1191547
+Local Browse [NAM] - No local health and fitness deals,/browse/san-jose?lat=37.3393857&lng=-121.89495549999998&administrative_area=CA&locality=San+Jose&address=San+Jose%2C+CA%2C+USA&category=health-and-fitness&locale=en_US,www.groupon.com,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1192529
+Local Browse [NAM] - No buyable events and activities deals exist,/browse/san-jose?category=things-to-do,www.groupon.com,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1192531
+Local [www.groupon.com] [US],/browse/san-francisco?context=local&z=skip,www.groupon.com,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1192551
+Getaways [www.groupon.com] [US],/getaways,www.groupon.com,"['getaways-chassis@groupon.pagerduty.com', 'getaways-chassis@groupondev.opsgenie.net']",1192553
+Coupons [www.groupon.com] [US],/coupons,www.groupon.com,['coupons-alerts@groupon.com'],1192555
+Local Browse San Jose Events [www.groupon.com] [US],/browse/san-jose?category=things-to-do&subcategory=tickets-and-events,www.groupon.com,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1268024
+Deal Monitor [www.groupon.com] [US],/deals/gg-duracell-48-pack-with-24-aa-and-24-aaa-alkaline-batteries-7,www.groupon.com,"['deal-page@groupondev.opsgenie.net', 'deal-page@groupon.pagerduty.com']",1371787
+Giftcard Preview [www.groupon.com] [US] -- Static Page,/gifts/preview,www.groupon.com,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net', 'vc-alerts@groupondev.opsgenie.net']",1383698
+Post Redemption Survey [www.groupon.com] [US],/post_redemption_survey?survey_key=pingdom-pingdom-check,www.groupon.com,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",1400230
+Merchant Place Pages [www.groupon.com] [US],/biz/newport-beach-ca/catalina-flyer,www.groupon.com,"['mpp-alerts@groupon.com', 'mpp-service@groupondev.opsgenie.net', 'mpp-dev@groupon.com']",1414979
+Local [SEO] [www.groupon.com] [US]_Wolfhound,/local,www.groupon.com,"['seo-alerts@groupon.com', 'wolfhound-alerts@groupon.com', 'wolfhound-apps@groupondev.opsgenie.net']",1449846
+Local Restaurants [SEO] [www.groupon.com] [US]_Wolfhound,/local/restaurants,www.groupon.com,"['seo-alerts@groupon.com', 'wolfhound-alerts@groupon.com', 'wolfhound-apps@groupondev.opsgenie.net']",1449847
+Local Colorado [SEO] [www.groupon.com] [US]_Wolfhound,/local/colorado,www.groupon.com,"['seo-alerts@groupon.com', 'wolfhound-alerts@groupon.com', 'wolfhound-apps@groupondev.opsgenie.net']",1449848
+Local Michigan Restaurants [SEO] [www.groupon.com] [US]_Wolfhound,/local/michigan/restaurants,www.groupon.com,"['seo-alerts@groupon.com', 'wolfhound-alerts@groupon.com', 'wolfhound-apps@groupondev.opsgenie.net']",1449849
+Local Los Angeles [SEO] [www.groupon.com] [US]_Wolfhound,/local/los-angeles,www.groupon.com,"['seo-alerts@groupon.com', 'wolfhound-alerts@groupon.com', 'wolfhound-apps@groupondev.opsgenie.net']",1449850
+Local Browse [NAM] - Things To Do In Miami_Wolfhound,/local/miami/things-to-do,www.groupon.com,"['seo-alerts@groupon.com', 'wolfhound-alerts@groupon.com', 'wolfhound-apps@groupondev.opsgenie.net']",1449851
+Articles Jello Shot [SEO] [www.groupon.com] [US],/articles/this-is-not-a-jell-o-shot-fd,www.groupon.com,"['seo-alerts@groupon.com', 'wolfhound-dev@groupon.com']",1449856
+My Account I-Tier [www.groupon.com] [US],/myaccount,www.groupon.com,['i-tier-devs@groupon.com'],1476321
+robots.txt [www.groupon.com] [US],/robots.txt,www.groupon.com,['computational-seo@groupon.com'],1496913
+sitemap.xml [www.groupon.com] [US],/sitemap.xml,www.groupon.com,['computational-seo@groupon.com'],1496916
+Subscription Center [www.groupon.com] [US],/subscription_center,www.groupon.com,"['subscription-flow@groupon.pagerduty.com', 'subscription-flow@groupondev.opsgenie.net']",1590448
+Track Order [US] - Order Not Found Page,/track_order/order_not_found,www.groupon.com,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",1688551
+Wishlist [www.groupon.com] [US],/wishlist,www.groupon.com,"['wishlist-alert@groupon.com', 'wishlist@groupondev.opsgenie.net']",1919502
+Merchant Center v3 [www.groupon.com] [Internal Tool] [US],/merchant/center,www.groupon.com,['gmc-dev+alerts-production@groupon.com'],2215951
+Merchant Center Auth App - Login [www.groupon.com] [Internal Tool] [US],/merchant/center/login,www.groupon.com,['gmc-dev+alerts-production@groupon.com'],2337439
+Merchant Center Auth App - Password Reset [www.groupon.com] [Internal Tool] [US],/merchant/center/password-reset,www.groupon.com,['gmc-dev+alerts-production@groupon.com'],2337443
+Merchant Center Auth App - Confirm Password Reset [www.groupon.com] [Internal Tool] [US],/merchant/center/confirm-password-reset/123456789,www.groupon.com,['gmc-dev+alerts-production@groupon.com'],2337444
+Track Order - [United States] [www.groupon.com] [NA],/track_order/73c281fa-3d09-11ec-9938-5254c56d6faa,www.groupon.com,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",2444059
+Goods Gateway [www.groupon.com] [US],/goods-gateway/auth/login,www.groupon.com,['goods-blr@groupon.com'],2457754
+Coupons Stores [www.groupon.com] [US],/coupons/stores,www.groupon.com,['coupons-alerts@groupon.com'],3197110
+Self Service Merchant Signup [www.groupon.com/merchant/join] [US],/merchant/join,www.groupon.com,"['gmc-dev+alerts-production@groupon.com', 'gmc-dev-merchant-center@groupondev.opsgenie.net', 'gmc-dev-merchant-center@groupon.pagerduty.com']",4468827
+Groupon NA - /signup (SSL),/signup,www.groupon.com,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com', 'workflow-alerts@groupon.com', 'workflow-alerts@groupondev.opsgenie.net']",4757469
+CLO Merchant [www.groupon.com] [Internal Tool] [US],/merchant/center/clo,www.groupon.com,['clo-dev@groupon.com'],5244078
+Groupon Select [www.groupon.com] [US],/programs/select,www.groupon.com,"['select-dev@groupon.com', 'loyalty-alerts@groupon.com']",5402327
+GrouponWorks [www.groupon.com] [US],/merchant,www.groupon.com,['sfint-dev-alerts@groupon.com'],5633064
+Post Redemption Survey [www.groupon.com] [US],/post_redemption_survey,www.groupon.com,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",5633164
+Coupons Target [www.groupon.com] [US],/coupons/target,www.groupon.com,['coupons-alerts@groupon.com'],5933568
+Groupon Developer Portal [www.groupon.com] [US] [3PIP],/developers,www.groupon.com,"['3pip-docs-ita@groupondev.opsgenie.net', '3pip-docs-ita@groupon.pagerduty.com']",6907413
+Booking-Tool-Merchant [US],/merchant/center/reservations,www.groupon.com,['booking-tool-engineers@groupon.com'],11518511
+Coupons Amazon [US] [www.groupon.com] [North America],/coupons/amazon,www.groupon.com,['coupons-alerts@groupon.com'],12151226
+Coupons Costco [US] [www.groupon.com] [North America],/coupons/costco,www.groupon.com,['coupons-alerts@groupon.com'],12165747
+Homepage [www.groupon.com] [US] from EU,/,www.groupon.com,['pingdom@groupon.com'],12315110
+Browse [US] - beauty-and-spas [US],/browse/chicago?topcategory=local&category=beauty-and-spas,www.groupon.com,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net']",12391465
+API v2 Local Deals [api.groupon.com] [US],/v2/deals?client_id=b4c789d8fc527005f041e30afabe3606b2e53077&division_id=chicago,api.groupon.com,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",242825
+S3 assets - AWS,/email/images/beauty_now/requested-mobile-2x.png,s3.grouponcdn.com,[],420051
+API v2 Local Deals [api.groupon.de] [EMEA - UK],/api/mobile/UK/deals?client_id=fda9e680f9b0406d2d42821851456ded&division_id=london&limit=1,api.groupon.de,"['magnificent7@groupon.com', 'incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net']",11406221
+Mapproxy,/maps/api/staticmap?size=10x10&sensor=false,mapproxy.groupon.com,['geo-team@groupon.com'],768062
+Mapproxy-EU,/maps/api/staticmap?size=10x10&sensor=false,mapproxy-eu.groupon.com,['geo-team@groupon.com'],808340
+Goods Commerce Interface,/,scm.commerceinterface.com,['goods-blr@groupon.com'],830839
+Merchant Interface CDN URL,/static/theme/aquincum/css/styles.css,d17qivog0tgmy2.cloudfront.net,[],835331
+Goods Commerce Interface S3 URL,/pingdom.txt,files.scm.commerceinterface.com,['goods-blr@groupon.com'],835332
+Salesforce_na8,/,grouponna.force.com,"['salesforce-alerts@groupon.com', 'sfint-dev-alerts@groupon.com']",845917
+Touch Login [touch.groupon.com] [US],/login,touch.groupon.com,[],1272825
+Shop [United Kingdom] [groupon-shop.co.uk] [EMEA],/,groupon-shop.co.uk,[],3679714
+Mobile App Download [United Kingdom] [www.groupon.co.uk] [EMEA],/mobile,www.groupon.co.uk,"['i-tier-mobile-redirect-page@groupon.pagerduty.com', 'i-tier-mobile-redirect-page@groupondev.opsgenie.net']",1125373
+Homepage [United Kingdom] [www.groupon.co.uk] [EMEA],/?nlp,www.groupon.co.uk,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1253786
+Goods [United Kingdom] [www.groupon.co.uk] [EMEA],/goods,www.groupon.co.uk,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1307125
+Local Browse [United Kingdom] [www.groupon.co.uk] [EMEA],/browse/london?context=local,www.groupon.co.uk,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1307174
+Getaways [United Kingdom] [www.groupon.co.uk] [EMEA],/getaways,www.groupon.co.uk,"['getaways-chassis@groupon.pagerduty.com', 'getaways-chassis@groupondev.opsgenie.net']",1307231
+Code Promo [United Kingdom] [www.groupon.co.uk] [EMEA],/discount-codes,www.groupon.co.uk,['coupons-alerts@groupon.com'],1371610
+Deal Monitor [United Kingdom] [www.groupon.co.uk] [EMEA],/deals/gg-groupon-goods-global-gmb-h-859-94,www.groupon.co.uk,"['deal-page@groupondev.opsgenie.net', 'deal-page@groupon.pagerduty.com']",1371788
+robots.txt [United Kingdom] [www.groupon.co.uk] [EMEA],/robots.txt,www.groupon.co.uk,['computational-seo@groupon.com'],1496922
+sitemap.xml [United Kingdom] [www.groupon.co.uk] [EMEA],/sitemap.xml,www.groupon.co.uk,['computational-seo@groupon.com'],1872388
+Track Order - [United Kingdom] [www.groupon.co.uk] [EMEA],/track_order/b949ed9e-57b1-11ed-8c5c-ae9e4a0f08c8,www.groupon.co.uk,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",2368133
+Local Search London [UK],/browse/london?context=local,www.groupon.co.uk,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",2581691
+tests - UK Local Search - London Pizza,/browse/london?lat=51.502&lng=-0.141&address=London&query=pizza&locale=en_GB,www.groupon.co.uk,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",2581716
+Coupons [UK] [www.groupon.co.uk] [EMEA],/discount-codes,www.groupon.co.uk,['coupons-alerts@groupon.com'],3197137
+Subscription Page UK,/app/subscriptions,www.groupon.co.uk,['gpn-alerts@groupon.com'],3634717
+Merchant Center Auth App - Confirm Password Reset [United Kingdom] [www.groupon.co.uk] [Internal Tool] [EMEA],/merchant/center/confirm-password-reset/123456789,www.groupon.co.uk,['gmc-dev+alerts-production@groupon.com'],3728002
+Merchant Center Auth App - Login [United Kingdom] [www.groupon.co.uk] [Internal Tool] [EMEA],/merchant/center/login,www.groupon.co.uk,['gmc-dev+alerts-production@groupon.com'],3728005
+Merchant Center Auth App - Password Reset [United Kingdom] [www.groupon.co.uk] [Internal Tool] [EMEA],/merchant/center/password-reset,www.groupon.co.uk,['gmc-dev+alerts-production@groupon.com'],3728008
+Merchant Center v3 [United Kingdom] [www.groupon.co.uk] [Internal Tool] [EMEA],/merchant/center,www.groupon.co.uk,['gmc-dev+alerts-production@groupon.com'],3728011
+Login - User Sessions ITA [United Kingdom] [www.groupon.co.uk] [EMEA],/login,www.groupon.co.uk,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162407
+Sing Up - User Sessions ITA [United Kingdom] [www.groupon.co.uk] [EMEA],/signup,www.groupon.co.uk,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162408
+Forgot Password - User Sessions ITA [United Kingdom] [www.groupon.co.uk] [EMEA],/forgot_password,www.groupon.co.uk,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162409
+Booking-Tool-Merchant [UK],/merchant/center/reservations,www.groupon.co.uk,['booking-tool-engineers@groupon.com'],11518527
+Booking-Tool-Customer [UK],/merchant/center/reservations/client_login,www.groupon.co.uk,['booking-tool-engineers@groupon.com'],11518743
+Coupons UberEats [UK] [www.groupon.co.uk] [EMEA],/discount-codes/ubereats,www.groupon.co.uk,['coupons-alerts@groupon.com'],12165513
+GrouponWorks [France] [www.groupon.fr] [EMEA],/merchant/,www.groupon.fr,['sfint-dev-alerts@groupon.com'],942076
+Mobile App Download [France] [www.groupon.fr] [EMEA],/mobile,www.groupon.fr,"['i-tier-mobile-redirect-page@groupon.pagerduty.com', 'i-tier-mobile-redirect-page@groupondev.opsgenie.net']",1125577
+Homepage [France] [www.groupon.fr] [EMEA],/?nlp,www.groupon.fr,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1253752
+Goods [France] [www.groupon.fr] [EMEA],/goods,www.groupon.fr,['monitoring_alert@groupon.fr'],1307101
+Local Browse [France] [www.groupon.fr] [EMEA],/browse/brest?context=local,www.groupon.fr,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1307145
+Getaways [France] [www.groupon.fr] [EMEA],/getaways?nlp,www.groupon.fr,"['getaways-chassis@groupon.pagerduty.com', 'getaways-chassis@groupondev.opsgenie.net']",1307214
+Deal Monitor [France] [www.groupon.fr] [EMEA],/deals/gg-clevin-1-104-267,www.groupon.fr,"['deal-page@groupondev.opsgenie.net', 'deal-page@groupon.pagerduty.com']",1371792
+Code Promo [France] [www.groupon.fr] [EMEA],/code-promo,www.groupon.fr,['coupons-alerts@groupon.com'],1491750
+robots.txt [France] [www.groupon.fr] [EMEA],/robots.txt,www.groupon.fr,['computational-seo@groupon.com'],1496895
+sitemap.xml [France] [www.groupon.fr] [EMEA],/sitemap.xml,www.groupon.fr,['computational-seo@groupon.com'],1872396
+Track Order - [France] [www.groupon.fr] [EMEA],/track_order/d9909eec-5bc4-11ed-b26e-06cdad9e2aff,www.groupon.fr,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",2368135
+test - EMEA - FR local Puzza,/browse/brest?lat=48.24&lng=-4.31&address=Brest+-+Quimper&query=pizza&locale=fr_FR,www.groupon.fr,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",2581729
+Coupons [FR] [www.groupon.fr] [EMEA],/code-promo,www.groupon.fr,['coupons-alerts@groupon.com'],3197173
+Merchant Center Auth App - Confirm Password Reset [France] [www.groupon.fr] [Internal Tool] [EMEA],/merchant/center/confirm-password-reset/123456789,www.groupon.fr,['gmc-dev+alerts-production@groupon.com'],3706405
+Merchant Center Auth App - Login [France] [www.groupon.fr] [Internal Tool] [EMEA],/merchant/center/login,www.groupon.fr,['gmc-dev+alerts-production@groupon.com'],3706420
+Merchant Center Auth App - Password Reset [France] [www.groupon.fr] [Internal Tool] [EMEA],/merchant/center/password-reset,www.groupon.fr,['gmc-dev+alerts-production@groupon.com'],3706426
+Merchant Center v3 [France] [www.groupon.fr] [Internal Tool] [EMEA],/merchant/center,www.groupon.fr,['gmc-dev+alerts-production@groupon.com'],3706435
+Login - User Sessions ITA [France] [www.groupon.fr] [EMEA],/login,www.groupon.fr,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162377
+Sing Up - User Sessions ITA [France] [www.groupon.fr] [EMEA],/signup,www.groupon.fr,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162378
+Forgot Password - User Sessions ITA [France] [www.groupon.fr] [EMEA],/forgot_password,www.groupon.fr,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162379
+Booking-Tool-Merchant [FR],/merchant/center/reservations,www.groupon.fr,['booking-tool-engineers@groupon.com'],11518515
+Booking-Tool-Customer [FR],/merchant/center/reservations/client_login,www.groupon.fr,['booking-tool-engineers@groupon.com'],11518675
+Browse [FR] - beauty-and-wellness,/bon-plan/beaute-et-bien-etre,www.groupon.fr,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net']",12391496
+GrouponWorks [Germany] [www.groupon.de] [EMEA],/merchant,www.groupon.de,['sfint-dev-alerts@groupon.com'],942077
+Mobile App Download [Germany] [www.groupon.de] [EMEA],/mobile,www.groupon.de,"['i-tier-mobile-redirect-page@groupon.pagerduty.com', 'i-tier-mobile-redirect-page@groupondev.opsgenie.net']",1125578
+Homepage [Germany] [www.groupon.de] [EMEA],/?nlp,www.groupon.de,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1253753
+Goods [Germany] [www.groupon.de] [EMEA],/goods/?nlp,www.groupon.de,"['goods-cx-eng@groupon.com', 'goods-eng-alert@groupon.com', 'goods-gst@groupondev.opsgenie.net']",1307102
+Local Browse [Germany] [www.groupon.de] [EMEA],/gutscheine/kiel?context=local,www.groupon.de,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1307207
+Getaways [Germany] [www.groupon.de] [EMEA],/getaways,www.groupon.de,"['getaways-chassis@groupon.pagerduty.com', 'getaways-chassis@groupondev.opsgenie.net']",1307215
+Deal Monitor [Germany] [www.groupon.de] [EMEA],/deals/elbe-freizeitland-3,www.groupon.de,"['deal-page@groupondev.opsgenie.net', 'deal-page@groupon.pagerduty.com']",1371790
+Merchant Place Pages [www.groupon.de] [Internal Tool] [EMEA],/biz/berlin/vau,www.groupon.de,"['mpp-alerts@groupon.com', 'mpp-service@groupondev.opsgenie.net', 'mpp-dev@groupon.com']",1414980
+robots.txt [Germany] [www.groupon.de] [EMEA],/robots.txt,www.groupon.de,['computational-seo@groupon.com'],1496896
+sitemap.xml [Germany] [www.groupon.de] [EMEA],/sitemap.xml,www.groupon.de,['computational-seo@groupon.com'],1872392
+Track Order - [Germany] [www.groupon.de] [EMEA],/track_order/20f958a0-52f6-11ed-b604-223871397384,www.groupon.de,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",2368134
+Coupons [DE] [www.groupon.de] [EMEA],/gutscheincode,www.groupon.de,['coupons-alerts@groupon.com'],3197422
+Subscription Page DE,/app/subscriptions,www.groupon.de,['gpn-alerts@groupon.com'],3634723
+Merchant Center Auth App - Confirm Password Reset [Germany] [www.groupon.de] [Internal Tool] [EMEA],/merchant/center/confirm-password-reset/123456789,www.groupon.de,['gmc-dev+alerts-production@groupon.com'],3727573
+Merchant Center Auth App - Login [Germany] [www.groupon.de] [Internal Tool] [EMEA],/merchant/center/login,www.groupon.de,['gmc-dev+alerts-production@groupon.com'],3727579
+Merchant Center Auth App - Password Reset [Germany] [www.groupon.de] [Internal Tool] [EMEA],/merchant/center/password-reset,www.groupon.de,['gmc-dev+alerts-production@groupon.com'],3727756
+Merchant Center v3 [Germany] [www.groupon.de] [Internal Tool] [EMEA],/merchant/center,www.groupon.de,['gmc-dev+alerts-production@groupon.com'],3727759
+Login - User Sessions ITA [Germany] [www.groupon.de] [EMEA],/login,www.groupon.de,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162381
+Sing Up - User Sessions ITA [Germany] [www.groupon.de] [EMEA],/signup,www.groupon.de,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162383
+Forgot Password - User Sessions ITA [Germany] [www.groupon.de] [EMEA],/forgot_password,www.groupon.de,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162384
+Coupons Amazon [DE] [www.groupon.de] [EMEA],/gutscheincode/amazon-de,www.groupon.de,['coupons-alerts@groupon.com'],5936028
+Booking-Tool-Merchant [DE],/merchant/center/reservations,www.groupon.de,['booking-tool-engineers@groupon.com'],11518518
+Booking-Tool-Customer [DE],/merchant/center/reservations/client_login,www.groupon.de,['booking-tool-engineers@groupon.com'],11518677
+Browse [DE] - beauty-and-wellness,/gutscheine/beauty-und-wellness,www.groupon.de,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net']",12391469
+Claver TEST - Purple Price [Germany],/deals/werderaner-tannenhof-3,www.groupon.de,['clmedina@groupon.com'],12424210
+GrouponWorks [Spain] [www.groupon.es] [EMEA],/merchant,www.groupon.es,['sfint-dev-alerts@groupon.com'],942158
+Mobile App Download [Spain] [www.groupon.es] [EMEA],/mobile,www.groupon.es,"['i-tier-mobile-redirect-page@groupon.pagerduty.com', 'i-tier-mobile-redirect-page@groupondev.opsgenie.net']",1125580
+Goods [Spain] [www.groupon.es] [EMEA],/goods,www.groupon.es,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1307120
+Local Browse [Spain] [www.groupon.es] [EMEA],/browse/la-coruna?context=local,www.groupon.es,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1307177
+Getaways [Spain] [www.groupon.es] [EMEA],/getaways,www.groupon.es,"['getaways-chassis@groupon.pagerduty.com', 'getaways-chassis@groupondev.opsgenie.net']",1307227
+Deal Monitor [Spain] [www.groupon.es] [EMEA],/deals/colchon-quality-grafeno-muelles-ensacados,www.groupon.es,"['deal-page@groupondev.opsgenie.net', 'deal-page@groupon.pagerduty.com']",1371789
+robots.txt [Spain] [www.groupon.es] [EMEA],/robots.txt,www.groupon.es,['computational-seo@groupon.com'],1496918
+sitemap.xml [Spain] [www.groupon.es] [EMEA],/sitemap.xml,www.groupon.es,['computational-seo@groupon.com'],1872394
+Track Order - [Spain] [www.groupon.es] [EMEA],/track_order/c45b4c48-51e7-11ed-81d0-52c03797f99a,www.groupon.es,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",2444656
+Coupons [ES] [www.groupon.es] [EMEA],/cupones-descuento,www.groupon.es,['coupons-alerts@groupon.com'],3197482
+Subscription Page ES,/app/subscriptions,www.groupon.es,['gpn-alerts@groupon.com'],3634756
+Merchant Center Auth App - Confirm Password Reset [Spain] [www.groupon.es] [Internal Tool] [EMEA],/merchant/center/confirm-password-reset/123456789,www.groupon.es,['gmc-dev+alerts-production@groupon.com'],3727909
+Merchant Center Auth App - Login [Spain] [www.groupon.es] [Internal Tool] [EMEA],/merchant/center/login,www.groupon.es,['gmc-dev+alerts-production@groupon.com'],3727912
+Merchant Center Auth App - Password Reset [Spain] [www.groupon.es] [Internal Tool] [EMEA],/merchant/center/password-reset,www.groupon.es,['gmc-dev+alerts-production@groupon.com'],3727915
+Merchant Center v3 [Spain] [www.groupon.es] [Internal Tool] [EMEA],/merchant/center,www.groupon.es,['gmc-dev+alerts-production@groupon.com'],3727933
+Login - User Sessions ITA [Spain] [www.groupon.es] [EMEA],/login,www.groupon.es,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162403
+Sing Up - User Sessions ITA [Spain] [www.groupon.es] [EMEA],/signup,www.groupon.es,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162404
+Forgot Password - User Sessions ITA [Spain] [www.groupon.es] [EMEA],/forgot_password,www.groupon.es,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162405
+Coupons Asos [ES] [www.groupon.es] [EMEA],/cupones-descuento/asos,www.groupon.es,['coupons-alerts@groupon.com'],5936148
+Booking-Tool-Merchant [ES],/merchant/center/reservations,www.groupon.es,['booking-tool-engineers@groupon.com'],11518522
+Booking-Tool-Customer [ES],/merchant/center/reservations/client_login,www.groupon.es,['booking-tool-engineers@groupon.com'],11518741
+Browse [ES] - beauty-and-spa,/ofertas/belleza,www.groupon.es,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net']",12391479
+GrouponWorks [Italy] [www.groupon.it] [EMEA],/merchant,www.groupon.it,['sfint-dev-alerts@groupon.com'],942099
+Mobile App Download [Italy] [www.groupon.it] [EMEA],/mobile,www.groupon.it,"['i-tier-mobile-redirect-page@groupon.pagerduty.com', 'i-tier-mobile-redirect-page@groupondev.opsgenie.net']",1125581
+Homepage [Italy] [www.groupon.it] [EMEA],/?nlp,www.groupon.it,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1253762
+Goods [Italy] [www.groupon.it] [EMEA],/goods,www.groupon.it,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1307109
+Getaways [Italy] [www.groupon.it] [EMEA],/getaways,www.groupon.it,"['getaways-chassis@groupon.pagerduty.com', 'getaways-chassis@groupondev.opsgenie.net']",1307220
+Deal Monitor [Italy] [www.groupon.it] [EMEA],/deals/vestito-estivo-pois,www.groupon.it,"['deal-page@groupondev.opsgenie.net', 'deal-page@groupon.pagerduty.com']",1371791
+Track Order - [Italy] [www.groupon.it] [EMEA],/track_order/00adc4d8-5557-11ed-9881-da2156ca73d3,www.groupon.it,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",2368142
+Coupons [IT] [www.groupon.it] [EMEA],/buoni-sconto,www.groupon.it,['coupons-alerts@groupon.com'],3197377
+Merchant Center Auth App - Confirm Password Reset [Italy] [www.groupon.it] [Internal Tool] [EMEA],/merchant/center/confirm-password-reset/123456789,www.groupon.it,['gmc-dev+alerts-production@groupon.com'],3728113
+Merchant Center Auth App - Login [Italy] [www.groupon.it] [Internal Tool] [EMEA],/merchant/center/login,www.groupon.it,['gmc-dev+alerts-production@groupon.com'],3728119
+Merchant Center Auth App - Password Reset [Italy] [www.groupon.it] [Internal Tool] [EMEA],/merchant/center/password-reset,www.groupon.it,['gmc-dev+alerts-production@groupon.com'],3728140
+Merchant Center v3 [Italy] [www.groupon.it] [Internal Tool] [EMEA],/merchant/center,www.groupon.it,['gmc-dev+alerts-production@groupon.com'],3728149
+robots.txt [Italy] [www.groupon.it] [EMEA],/robots.txt,www.groupon.it,['computational-seo@groupon.com'],4932056
+Login - User Sessions ITA [Italy] [www.groupon.it] [EMEA],/login,www.groupon.it,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162390
+Sing Up - User Sessions ITA [Italy] [www.groupon.it] [EMEA],/signup,www.groupon.it,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162393
+Forgot Password - User Sessions ITA [Italy] [www.groupon.it] [EMEA],/forgot_password,www.groupon.it,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162395
+Coupons Amazon [IT] [www.groupon.it] [EMEA],/buoni-sconto/amazon,www.groupon.it,['coupons-alerts@groupon.com'],5936140
+Booking-Tool-Merchant [IT],/merchant/center/reservations,www.groupon.it,['booking-tool-engineers@groupon.com'],11518519
+Booking-Tool-Customer [ES],/merchant/center/reservations/client_login,www.groupon.it,['booking-tool-engineers@groupon.com'],11518687
+Booking-Tool-Customer [IT],/merchant/center/reservations/client_login,www.groupon.it,['booking-tool-engineers@groupon.com'],11518736
+GrouponWorks [Netherlands] [www.groupon.nl] [EMEA],/merchant,www.groupon.nl,['sfint-dev-alerts@groupon.com'],942113
+Mobile App Download [Netherlands] [www.groupon.nl] [EMEA],/mobile,www.groupon.nl,"['i-tier-mobile-redirect-page@groupon.pagerduty.com', 'i-tier-mobile-redirect-page@groupondev.opsgenie.net']",1125582
+Homepage [Netherlands] [www.groupon.nl] [EMEA],/?nlp,www.groupon.nl,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1253764
+Goods [Netherlands] [www.groupon.nl] [EMEA],/goods,www.groupon.nl,['monitoring_alert@groupon.fr'],1307111
+Local [Netherlands] [www.groupon.nl] [EMEA],/browse/leeuwarden?context=local,www.groupon.nl,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1307197
+Getaways [Netherlands] [www.groupon.nl] [EMEA],/getaways,www.groupon.nl,"['monitoring_alert@groupon.fr', 'getaways-chassis@groupon.pagerduty.com', 'getaways-chassis@groupondev.opsgenie.net']",1307221
+Deal Monitor [Netherlands] [www.groupon.nl] [EMEA],/deals/inductiebeschermer-canvascompany,www.groupon.nl,"['deal-page@groupondev.opsgenie.net', 'deal-page@groupon.pagerduty.com']",1371799
+robots.txt [Netherlands] [www.groupon.nl] [EMEA],/robots.txt,www.groupon.nl,"['seo-frontend-alerts@groupon.com', 'seo-apps@groupondev.opsgenie.net', 'computational-seo@groupon.com']",1496903
+sitemap.xml [Netherlands] [www.groupon.nl] [EMEA],/sitemap.xml,www.groupon.nl,['computational-seo@groupon.com'],1872399
+Merchant Center Auth App - Password Reset [Netherlands] [www.groupon.nl] [Internal Tool] [EMEA],/merchant/center/password-reset,www.groupon.nl,['gmc-dev+alerts-production@groupon.com'],3727654
+Merchant Center Auth App - Confirm Password Reset [Netherlands] [www.groupon.nl] [Internal Tool] [EMEA],/merchant/center/confirm-password-reset/123456789,www.groupon.nl,['gmc-dev+alerts-production@groupon.com'],3727765
+Merchant Center Auth App - Login [Netherlands] [www.groupon.nl] [Internal Tool] [EMEA],/merchant/center/login,www.groupon.nl,['gmc-dev+alerts-production@groupon.com'],3727771
+Merchant Center v3 [Netherlands] [www.groupon.nl] [Internal Tool] [EMEA],/merchant/center,www.groupon.nl,['gmc-dev+alerts-production@groupon.com'],3727774
+Free Coupons [Netherlands] [www.groupon.nl] [EMEA],/kortingscodes,www.groupon.nl,['coupons-alerts@groupon.com'],4865782
+Login - User Sessions ITA [Netherlands] [www.groupon.nl] [EMEA],/login,www.groupon.nl,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162396
+Sing Up - User Sessions ITA [Netherlands] [www.groupon.nl] [EMEA],/signup,www.groupon.nl,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162397
+Forgot Password - User Sessions ITA [Netherlands] [www.groupon.nl] [EMEA],/forgot_password,www.groupon.nl,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162398
+Coupons Adidas [NL] [www.groupon.nl] [EMEA],/kortingscodes/adidas,www.groupon.nl,['coupons-alerts@groupon.com'],5936073
+Booking-Tool-Merchant [NL],/merchant/center/reservations,www.groupon.nl,['booking-tool-engineers@groupon.com'],11518633
+Booking-Tool-Customer [NL],/merchant/center/reservations/client_login,www.groupon.nl,['booking-tool-engineers@groupon.com'],11519232
+All Deals [Australia] [dealhub.groupon.com.au] [APAC / EMEA],/,dealhub.groupon.com.au,"['apac-pingdom-citydeals-au-aws-hosted-apps@groupon.pagerduty.com', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1168441
+Goods [Ireland] [www.groupon.ie] [EMEA],/goods,www.groupon.ie,"['goodsgridpage-alerts@groupon.com', 'goods-gst@groupondev.opsgenie.net']",877840
+Local [Ireland] [www.groupon.ie] [EMEA],/browse/galway?context=local,www.groupon.ie,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1307200
+Getaways [Ireland] [www.groupon.ie] [EMEA],/getaways,www.groupon.ie,"['getaways-chassis@groupon.pagerduty.com', 'getaways-chassis@groupondev.opsgenie.net']",1307218
+Deal Monitor [Ireland] [www.groupon.ie] [EMEA],/deals/gg-groupon-goods-global-gmb-h-2026-13,www.groupon.ie,"['deal-page@groupondev.opsgenie.net', 'deal-page@groupon.pagerduty.com']",1371793
+robots.txt [Ireland] [www.groupon.ie] [EMEA],/robots.txt,www.groupon.ie,['computational-seo@groupon.com'],1496899
+sitemap.xml [Ireland] [www.groupon.ie] [EMEA],/sitemap.xml,www.groupon.ie,['computational-seo@groupon.com'],1872397
+Track Order - [Ireland] [www.groupon.ie] [EMEA],/track_order/716b7bfa-7dc0-11ea-8dd1-525478eb1a98,www.groupon.ie,"['mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",2368139
+tests - EMEA IE local Search Pizza,/browse/dublin?lat=53.33&lng=-6.25&address=Dublin&query=pizza&locale=en_IE,www.groupon.ie,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",2581724
+Merchant Center Auth App - Confirm Password Reset [Ireland] [www.groupon.ie] [Internal Tool] [EMEA],/merchant/center/confirm-password-reset/123456789,www.groupon.ie,['gmc-dev+alerts-production@groupon.com'],3728092
+Merchant Center Auth App - Login [Ireland] [www.groupon.ie] [Internal Tool] [EMEA],/merchant/center/login,www.groupon.ie,['gmc-dev+alerts-production@groupon.com'],3728095
+Merchant Center Auth App - Password Reset [Ireland] [www.groupon.ie] [Internal Tool] [EMEA],/merchant/center/password-reset,www.groupon.ie,['gmc-dev+alerts-production@groupon.com'],3728098
+Merchant Center v3 [Ireland] [www.groupon.ie] [Internal Tool] [EMEA],/merchant/center,www.groupon.ie,['gmc-dev+alerts-production@groupon.com'],3728101
+Discount Codes [Ireland] [www.groupon.ie] [EMEA],/discount-codes,www.groupon.ie,['coupons-alerts@groupon.com'],5012527
+Login - User Sessions ITA [Ireland] [www.groupon.ie] [EMEA],/login,www.groupon.ie,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162385
+Sing Up - User Sessions ITA [Ireland] [www.groupon.ie] [EMEA],/signup,www.groupon.ie,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162386
+Forgot Password - User Sessions ITA [Ireland] [www.groupon.ie] [EMEA],/forgot_password,www.groupon.ie,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162388
+Coupons Amazon [IE] [www.groupon.ie] [EMEA],/discount-codes/amazon-co-uk,www.groupon.ie,['coupons-alerts@groupon.com'],5936088
+Booking-Tool-Merchant [IE],/merchant/center/reservations,www.groupon.ie,['booking-tool-engineers@groupon.com'],11518625
+Booking-Tool-Customer [IE],/merchant/center/reservations/client_login,www.groupon.ie,['booking-tool-engineers@groupon.com'],11518744
+MDS_da-deal-service-api,/heartbeat.txt,mds.groupon.com,"['mds-alerts@groupondev.opsgenie.net', 'mds-alerts@groupon.com', 'mds-engineering@groupon.com']",1194897
+Marketing Deal Service [www.groupon.com] [US],/deals.json?country=FR&page=0&size=1&client=pingdom,mds.groupon.com,"['mds-alerts@groupondev.opsgenie.net', 'mds-alerts@groupon.com', 'mds-engineering@groupon.com']",1499138
+Marketing Deal Service Shopping [www.groupon.com] [US],/deals.json?country=UK&client=pingdom&channel=shopping,mds.groupon.com,"['mds-alerts@groupondev.opsgenie.net', 'mds-alerts@groupon.com', 'mds-engineering@groupon.com']",1786190
+Marketing Deal Service Local [www.groupon.com] [US],/deals.json?country=UK&client=pingdom&channel=local,mds.groupon.com,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1786195
+GrouponWorks [Poland] [www.groupon.pl] [EMEA],/merchant/,www.groupon.pl,['sfint-dev-alerts@groupon.com'],942132
+Local Browse [Poland] [www.groupon.pl] [EMEA],/browse/szczecin?context=local,www.groupon.pl,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1307189
+Getaways [Poland] [www.groupon.pl] [EMEA],/getaways,www.groupon.pl,"['getaways-chassis@groupon.pagerduty.com', 'getaways-chassis@groupondev.opsgenie.net']",1307223
+Deal Monitor [Poland] [www.groupon.pl] [EMEA],/deals/ga-dom-wypoczynkowy-alina-22,www.groupon.pl,"['deal-page@groupondev.opsgenie.net', 'deal-page@groupon.pagerduty.com']",1371801
+robots.txt [Poland] [www.groupon.pl] [EMEA],/robots.txt,www.groupon.pl,['computational-seo@groupon.com'],1496911
+sitemap.xml [Poland] [www.groupon.pl] [EMEA],/sitemap.xml,www.groupon.pl,['computational-seo@groupon.com'],1872401
+Coupons [PL] [www.groupon.pl] [EMEA],/kody-rabatowe,www.groupon.pl,['coupons-alerts@groupon.com'],3197548
+Merchant Center Auth App - Confirm Password Reset [Poland] [www.groupon.pl] [Internal Tool] [EMEA],/merchant/center/confirm-password-reset/123456789,www.groupon.pl,['gmc-dev+alerts-production@groupon.com'],3727831
+Merchant Center Auth App - Login [Poland] [www.groupon.pl] [Internal Tool] [EMEA],/merchant/center/login,www.groupon.pl,['gmc-dev+alerts-production@groupon.com'],3727840
+Merchant Center Auth App - Password Reset [Poland] [www.groupon.pl] [Internal Tool] [EMEA],/merchant/center/password-reset,www.groupon.pl,['gmc-dev+alerts-production@groupon.com'],3727849
+Merchant Center v3 [Poland] [www.groupon.pl] [Internal Tool] [EMEA],/merchant/center,www.groupon.pl,['gmc-dev+alerts-production@groupon.com'],3727855
+Login - User Sessions ITA [Poland] [www.groupon.pl] [EMEA],/login,www.groupon.pl,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162399
+Sing Up - User Sessions ITA [Poland] [www.groupon.pl] [EMEA],/signup,www.groupon.pl,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162400
+Forgot Password - User Sessions ITA [Poland] [www.groupon.pl] [EMEA],/forgot_password,www.groupon.pl,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162402
+Coupons Aliexpress [PL] [www.groupon.pl] [EMEA],/kody-rabatowe/aliexpress,www.groupon.pl,['coupons-alerts@groupon.com'],5936100
+Booking-Tool-Merchant [PL],/merchant/center/reservations,www.groupon.pl,['booking-tool-engineers@groupon.com'],11518632
+Booking-Tool-Customer [PL],/merchant/center/reservations/client_login,www.groupon.pl,['booking-tool-engineers@groupon.com'],11519225
+GrouponWorks [Belgium] [www.groupon.be] [EMEA],/merchant,www.groupon.be,['sfint-dev-alerts@groupon.com'],942060
+Homepage [Belgium] [www.groupon.be] [EMEA],/,www.groupon.be,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1253739
+Goods [Belgium] [www.groupon.be] [EMEA],/goods,www.groupon.be,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1307095
+Merchant Center Auth App - Confirm Password Reset [Belgium] [www.groupon.be] [Internal Tool] [EMEA],/merchant/center/confirm-password-reset/123456789,www.groupon.be,['gmc-dev+alerts-production@groupon.com'],3706003
+Merchant Center Auth App - Login [Belgium] [www.groupon.be] [Internal Tool] [EMEA],/merchant/center/login,www.groupon.be,['gmc-dev+alerts-production@groupon.com'],3706006
+Merchant Center Auth App - Password Reset [Belgium] [www.groupon.be] [Internal Tool] [EMEA],/merchant/center/password-reset,www.groupon.be,['gmc-dev+alerts-production@groupon.com'],3706009
+Merchant Center v3 [Belgium] [www.groupon.be] [Internal Tool] [EMEA],/merchant/center,www.groupon.be,['gmc-dev+alerts-production@groupon.com'],3706120
+robots.txt [Belgium] [www.groupon.be] [EMEA],/robots.txt,www.groupon.be,['computational-seo@groupon.com'],4932052
+Login - User Sessions ITA [Belgium] [www.groupon.be] [EMEA],/login,www.groupon.be,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162361
+Sing Up - User Sessions ITA [Belgium] [www.groupon.be] [EMEA],/signup,www.groupon.be,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162367
+Forgot Password - User Sessions ITA [Belgium] [www.groupon.be] [EMEA],/forgot_password,www.groupon.be,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162372
+Booking-Tool-Merchant [BE],/merchant/center/reservations,www.groupon.be,['booking-tool-engineers@groupon.com'],11518634
+Booking-Tool-Customer [BE],/merchant/center/reservations/client_login,www.groupon.be,['booking-tool-engineers@groupon.com'],11519234
+GrouponWorks [Canada] [www.groupon.ca] [EMEA / US],/merchant,www.groupon.ca,['sfint-dev-alerts@groupon.com'],942140
+Homepage [Canada] [www.groupon.ca] [EMEA / US],/,www.groupon.ca,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",1253749
+Getaways [Canada] [www.groupon.ca] [EMEA / US],/getaways,www.groupon.ca,"['getaways-chassis@groupon.pagerduty.com', 'getaways-chassis@groupondev.opsgenie.net']",1307211
+robots.txt [Canada] [www.groupon.ca] [EMEA / US],/robots.txt,www.groupon.ca,['computational-seo@groupon.com'],1496892
+sitemap.xml [Canada] [www.groupon.ca] [EMEA / US],/sitemap.xml,www.groupon.ca,['computational-seo@groupon.com'],1872385
+Merchant Center Auth App - Confirm Password Reset [Canada] [www.groupon.ca] [Internal Tool] [EMEA / US],/merchant/center/confirm-password-reset/123456789,www.groupon.ca,['gmc-dev+alerts-production@groupon.com'],3706183
+Merchant Center Auth App - Login [Canada] [www.groupon.ca] [Internal Tool] [EMEA / US],/merchant/center/login,www.groupon.ca,['gmc-dev+alerts-production@groupon.com'],3706189
+Merchant Center Auth App - Password Reset [Canada] [www.groupon.ca] [Internal Tool] [EMEA / US],/merchant/center/password-reset,www.groupon.ca,['gmc-dev+alerts-production@groupon.com'],3706192
+Merchant Center v3 [Canada] [www.groupon.ca] [Internal Tool] [EMEA / US],/merchant/center,www.groupon.ca,['gmc-dev+alerts-production@groupon.com'],3706198
+Getaways [French Canada] [www.groupon.ca] [EMEA / US],/getaways,www.groupon.ca,"['getaways-chassis@groupon.pagerduty.com', 'getaways-chassis@groupondev.opsgenie.net']",4173825
+Booking-Tool-Merchant [CA],/merchant/center/reservations,www.groupon.ca,['booking-tool-engineers@groupon.com'],11518635
+Booking-Tool-Customer [CA],/merchant/center/reservations/client_login,www.groupon.ca,['booking-tool-engineers@groupon.com'],11519235
+Getaways Extranet [getaways-extranet.groupon.com] [US],/,getaways-extranet.groupon.com,['getaways-eng@groupon.com'],1249636
+Getaways [Australia] [www.groupon.com.au] [APAC / EMEA],/travel,www.groupon.com.au,"['pingdom-apac-citydeals-heroku-hosted-apps@groupon.pagerduty.com', 'getaways-chassis@groupon.pagerduty.com', 'getaways-chassis@groupondev.opsgenie.net']",1168417
+Things To Do [Australia] [groupon.com.au] [APAC / EMEA],/coupons/things-to-do,www.groupon.com.au,['pingdom-apac-citydeals-heroku-hosted-apps@groupon.pagerduty.com'],1168442
+Mobile App Download [Australia] [www.groupon.com.au] [APAC / EMEA],/mobile,www.groupon.com.au,"['i-tier-mobile-redirect-page@groupon.pagerduty.com', 'i-tier-mobile-redirect-page@groupondev.opsgenie.net']",1258989
+Homepage [Australia] [www.groupon.com.au] [APAC / EMEA],/,www.groupon.com.au,"['admin.tigers@groupon.com', 'tigerinfra@groupon.com']",1269013
+Retail [Australia] [groupon.com.au] [APAC / EMEA],/coupons/retail,www.groupon.com.au,['pingdom-apac-citydeals-heroku-hosted-apps@groupon.pagerduty.com'],1385177
+robots.txt [Australia] [www.groupon.com.au] [APAC / EMEA],/robots.txt,www.groupon.com.au,"['seo-frontend-alerts@groupon.com', 'seo-apps@groupondev.opsgenie.net', 'computational-seo@groupon.com']",1496889
+Coupons [AU] [www.groupon.com.au] [APAC],/vouchers,www.groupon.com.au,['coupons-alerts@groupon.com'],3197527
+Login - User Sessions ITA [Australia] [www.groupon.com.au] [APAC / EMEA],/login,www.groupon.com.au,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5164463
+Sing Up - User Sessions ITA [Australia] [www.groupon.com.au] [APAC / EMEA],/signup,www.groupon.com.au,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5164471
+Forgot Password - User Sessions ITA [Australia] [www.groupon.com.au] [APAC / EMEA],/forgot_password,www.groupon.com.au,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5164472
+Coupons Amazon [AU] [www.groupon.com.au] [APAC],/vouchers/amazon,www.groupon.com.au,['coupons-alerts@groupon.com'],5936045
+Booking-Tool-Merchant [AU],/merchant/center/reservations,www.groupon.com.au,['booking-tool-engineers@groupon.com'],11518628
+Booking-Tool-Customer [AU],/merchant/center/reservations/client_login,www.groupon.com.au,['booking-tool-engineers@groupon.com'],11518746
+GrouponWorks [United Arab Emirates] [www.groupon.ae] [EMEA],/merchant,www.groupon.ae,['sfint-dev-alerts@groupon.com'],942181
+Goods [United Arab Emirates] [www.groupon.ae] [EMEA],/goods,www.groupon.ae,"['ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",3679702
+Merchant Center Auth App - Confirm Password Reset [United Arab Emirates] [www.groupon.ae] [Internal Tool] [EMEA],/merchant/center/confirm-password-reset/123456789,www.groupon.ae,['gmc-dev+alerts-production@groupon.com'],3705880
+Merchant Center Auth App - Login [United Arab Emirates] [www.groupon.ae] [Internal Tool] [EMEA],/merchant/center/login,www.groupon.ae,['gmc-dev+alerts-production@groupon.com'],3705892
+Merchant Center Auth App - Password Reset [United Arab Emirates] [www.groupon.ae] [Internal Tool] [EMEA],/merchant/center/password-reset,www.groupon.ae,['gmc-dev+alerts-production@groupon.com'],3705895
+Merchant Center v3 [United Arab Emirates] [www.groupon.ae] [Internal Tool] [EMEA],/merchant/center,www.groupon.ae,['gmc-dev+alerts-production@groupon.com'],3705913
+robots.txt [United Arab Emirates] [www.groupon.ae] [EMEA],/robots.txt,www.groupon.ae,['computational-seo@groupon.com'],4932050
+Login - User Sessions ITA [Arab Emirates] [www.groupon.ae] [EMEA],/login,www.groupon.ae,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162356
+Sing Up - User Sessions ITA [Arab Emirates] [www.groupon.ae] [EMEA],/signup,www.groupon.ae,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162359
+Forgot Password - User Sessions ITA [Arab Emirates] [www.groupon.ae] [EMEA],/forgot_password,www.groupon.ae,"['workflow-alerts@groupondev.opsgenie.net', 'workflow-alert@groupon.com']",5162360
+Booking-Tool-Merchant [AE],/merchant/center/reservations,www.groupon.ae,['booking-tool-engineers@groupon.com'],11518637
+Booking-Tool-Customer [AE],/merchant/center/reservations/client_login,www.groupon.ae,['booking-tool-engineers@groupon.com'],11519236
+Goods Shipment Tracker Aftership,/,api.aftership.com,['goods-blr@groupon.com'],1284218
+Avatax [External Partner] [Payment],/,avatax.avalara.net,['orders-alerts@groupon.com'],1288109
+Webbus [webbus.groupon.com] [US],{},webbus.groupon.com,"['sfint-dev-alerts@groupon.com', 'webbus@groupon.pagerduty.com', 'webbus@groupondev.opsgenie.net']",1497056
+OKTA [External Partner] [Access Management],/,groupon.okta.com,['sysops@groupon.com'],1501957
+Deal Centre [deal-centre.groupon.de] [Internal Servcie] [EMEA],/auth/,deal-centre.groupon.de,"['lex-emea-alerts@groupondev.opsgenie.net', 'lex-emea-alerts@groupon.pagerduty.com']",1814929
+S3 Asset Hosting,/do-not-delete/pingdom-12341234.js,groupon-a1.s3-us-west-1.amazonaws.com,"['i-tier-mobile-redirect-page@groupon.pagerduty.com', 'i-tier-mobile-redirect-page@groupondev.opsgenie.net']",2061785
+S3 Asset Hosting Staging,/artifact-uploader-test/assets/random-123124.js,groupon-testa2.s3-us-west-1.amazonaws.com,"['i-tier-mobile-redirect-page@groupon.pagerduty.com', 'i-tier-mobile-redirect-page@groupondev.opsgenie.net']",2061773
+Mailmonger Sparkpost API,/api/v1/message-events/events/samples?events=bounce,api.sparkpost.com,"['mailmonger-alert@groupondev.opsgenie.net', 'mailmonger-alert@groupon.pagerduty.com']",2334817
+Mailmonger Sparkpost event endpoint,/mailmonger/v1/sparkpost-event?client_id=28ba52dc8025425b3f92443a4d5705a8b91369e3,api.groupon.com,"['mailmonger-alert@groupondev.opsgenie.net', 'mailmonger-alert@groupon.pagerduty.com']",2334820
+Cybersource Transaction Processor - Akamai'd - TEST,/commerce/1.x/transactionProcessor,ics2wsa.ic3.com,"['killbill-payment-us@groupon.pagerduty.com', 'killbill-payment-us@groupondev.opsgenie.net']",2953960
+Cybersource Transaction Processor Non-Akamai Test,/commerce/1.x/transactionProcessor,ics2ws.ic3.com,"['killbill-payment-us@groupon.pagerduty.com', 'killbill-payment-us@groupondev.opsgenie.net']",2972317
+Confluence [Internal Tool] [APAC / EMEA / LATAM / US],/,confluence.groupondev.com,['sysops@groupon.com'],3686242
+Merchant Center v2 [Australia] [merchants.groupon.com.au] [Internal Tool] [APAC / EMEA],/,merchants.groupon.com.au,['gmc-dev+alerts-production@groupon.com'],3705952
+CLO Card Interaction Service [www.groupon.com] [US],/card-interaction-service/api/v1/status?client_id=a7f93e2f0ab291aa0b3d584f785eaa19,payments-api.groupon.com,['clo-dev@groupon.com'],4602258
+Tracky [na.groupondata.com] [US],/tracky,na.groupondata.com,['data-systems-alerts@groupon.com'],1683880
+Tracky [eu.groupondata.com] [EMEA],/tracky,eu.groupondata.com,['data-systems-alerts@groupon.com'],4701497
+Vouchercloud [UK] [vouchercloud.com] [EMEA],/vc-heartbeat.html,www.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],5246475
+Vouchercloud Food and Drink [UK] [vouchercloud.com/food-and-drink-vouchers] [EMEA],/food-and-drink-vouchers,www.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],5247938
+Vouchercloud Merchant TUI [UK] [vouchercloud.com//tui-vouchers] [EMEA],/tui-vouchers,www.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],5247949
+Vouchercloud Merchant First Choice [UK] [vouchercloud.com/first-choice-vouchers] [EMEA],/first-choice-vouchers,www.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],5247950
+Vouchercloud Merchant Nike [UK] [vouchercloud.com/nike-store-vouchers] [EMEA],/nike-store-vouchers,www.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],5247958
+Vouchercloud Merchant JD Williams [UK] [vouchercloud.com/jd-williams-vouchers] [EMEA],/jd-williams-vouchers,www.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],5247987
+Vouchercloud Merchant UberEats [UK] [https://www.vouchercloud.com/ubereats-vouchers] [EMEA],/ubereats-vouchers,www.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],12165682
+Vouchercloud Merchant Booking-com [UK] [https://https://www.vouchercloud.com/booking-com-vouchers] [EMEA],/booking-com-vouchers,www.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],12165691
+Vouchercloud Merchant B&Q [UK] [https://www.vouchercloud.com/bandq-vouchers] [EMEA],/bandq-vouchers,www.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],12165693
+Vouchercloud Merchant Matalan [UK] [https://www.vouchercloud.com/matalan-vouchers] [EMEA],/matalan-vouchers,www.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],12165698
+Vouchercloud Merchant Harvester [UK] [https://www.vouchercloud.com/harvester-vouchers] [EMEA],/harvester-vouchers,www.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],12165699
+VoucherCloud Merchant Amazon,/amazon-vouchers,www.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],12246958
+Giftcloud [UK] [giftcloud.com] [EMEA],/uk,www.giftcloud.com,['vc-alerts@groupondev.opsgenie.net'],5246505
+Giftcloud Admin [UK] [banksy.giftcloud.com] [EMEA],/gc-admin-heartbeat.html,banksy.giftcloud.com,['vc-alerts@groupondev.opsgenie.net'],5246574
+Giftcloud Api [UK] [api.giftcloud.com] [EMEA],/gifts?Limit=5,api.giftcloud.com,['vc-alerts@groupondev.opsgenie.net'],5246582
+Giftcloud Portal [UK] [portal.giftcloud.com] [EMEA],/gc/login,portal.giftcloud.com,['vc-alerts@groupondev.opsgenie.net'],5246593
+Giftcloud RestApi [UK] [rest.giftcloud.com] [EMEA],/v2/heartbeat,rest.giftcloud.com,['vc-alerts@groupondev.opsgenie.net'],5246602
+Controlcloud [UK] [cc.vouchercloud.com] [EMEA],/user/login,cc.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],5247784
+Vouchercloud WL Mumsnet [UK] [discountcode.mumsnet.com] [EMEA],/,discountcode.mumsnet.com,['vc-alerts@groupondev.opsgenie.net'],5247847
+Vouchercloud WL Irish Independent [Ireland] [discountcode.independent.ie] [EMEA],/,discountcode.independent.ie,['vc-alerts@groupondev.opsgenie.net'],5247850
+Giftcloud Rewards [UK] [rewards.giftcloud.com] [EMEA],/,rewards.giftcloud.com,['vc-alerts@groupondev.opsgenie.net'],5247988
+Giftcloud Affiliates Web [UK] [rewards.giftcloud.com/uk/capture/test/11351] [EMEA],/uk/capture/test/11351,rewards.giftcloud.com,['vc-alerts@groupondev.opsgenie.net'],12243248
+Vouchercloud Api [UK] [api.vouchercloud.com] [EMEA],/restful-api-heartbeat.html,api.vouchercloud.com,['vc-alerts@groupondev.opsgenie.net'],5247782
+Chicago Firewall (outside interface),{},204.17.255.132,['netops-alerts-emailonly@groupon.com'],5635337
+Giftcloud Rewards Api [UK] [rewardsapi.giftcloud.com] [EMEA],/heartbeat,rewardsapi.giftcloud.com,['vc-alerts@groupondev.opsgenie.net'],6713255
+Giftcloud IAM Api [UK] [iam.giftcloud.com] [EMEA],/heartbeat,iam.giftcloud.com,['vc-alerts@groupondev.opsgenie.net'],6713261
+Giftcloud Selfserve [UK] [selfserve.giftcloud.com] [EMEA],/heartbeat,selfserve.giftcloud.com,['vc-alerts@groupondev.opsgenie.net'],6713263
+Chicago DC (38.122.112.186),{},38.122.112.186,"['netadmin@groupon.com', 'it-net-engineering@groupondev.opsgenie.net', 'it-net-engineering@groupon.pagerduty.com', 'netops-alerts-emailonly@groupon.com']",6901643
+Chicago DC (198.167.129.5),{},198.167.129.5,['netops-alerts-emailonly@groupon.com'],6901691
+Vouchercloud [France] [vouchercloud.fr] [EMEA],/vc-heartbeat.html,www.vouchercloud.fr,['vc-alerts@groupondev.opsgenie.net'],8400141
+Vouchercloud [Germany] [vouchercloud.de] [EMEA],/vc-heartbeat.html,www.vouchercloud.de,['vc-alerts@groupondev.opsgenie.net'],8400183
+Vouchercloud [Netherlands] [vouchercloud.nl] [EMEA],/vc-heartbeat.html,www.vouchercloud.nl,['vc-alerts@groupondev.opsgenie.net'],8400222
+Vouchercloud [Ireland] [vouchercloud.ie] [EMEA],/,www.vouchercloud.ie,['vc-alerts@groupondev.opsgenie.net'],8400260
+Vouchercloud [Australia] [voucher-cloud.com.au] [EMEA],/vc-heartbeat.html,www.voucher-cloud.com.au,['vc-alerts@groupondev.opsgenie.net'],8595509
+People [people.groupon.com] [US],/en/blog/,www.grouponcareers.com,['hr@groupon.com'],942029
+My Groupons [www.groupon.com] [US],/mygroupons/assets/mygroupons_new-d8727521ac.js,www1.grouponcdn.com,"['shawshank@groupon.com', 'mygroupons-vouchers@groupon.pagerduty.com', 'mygroupons-vouchers@groupondev.opsgenie.net']",1155565
+Doorman [US],/grpn/healthcheck,doorman-na.groupondev.com,"['users-service@groupondev.opsgenie.net', 'users-service@groupon.pagerduty.com']",11405884
+Goods Invoicing [US],/,goods-invoicing.groupon.com,"['goods-inbound-outbound2@groupon.pagerduty.com', 'goods-inbound-outbound2@groupondev.opsgenie.net']",11405914
+Ingestion Service [US],/grpn/healthcheck,ingestion-service.groupondev.com,['gso-india-engineering@groupon.com'],11405922
+Orders-EXT [US],/grpn/healthcheck,vendor-ac01.groupon.com,"['orders-anti-fraud@groupon.pagerduty.com', 'orders-anti-fraud@groupondev.opsgenie.net']",11405935
+Doorman [EMEA],/grpn/healthcheck,doorman-emea.groupondev.com,"['users-service@groupondev.opsgenie.net', 'users-service@groupon.pagerduty.com']",11405943
+Ingestion Service [EMEA],/grpn/healthcheck,ingestion-service-eu.groupondev.com,['gso-india-engineering@groupon.com'],11405958
+Orders-EXT [EMEA],/grpn/healthcheck,vendor-ac04.groupon.com,"['orders-anti-fraud@groupon.pagerduty.com', 'orders-anti-fraud@groupondev.opsgenie.net']",11405965
+Service Alerts [US],/prod/healthcheck,service-alerts.groupondev.com,"['cloud-sre-alerts@groupon.pagerduty.com', 'cloud-sre-alerts@groupondev.opsgenie.net']",11406388
+Goods Invoicing [EMEA],/,goods-invoicing-emea.groupon.com,"['goods-inbound-outbound2@groupon.pagerduty.com', 'goods-inbound-outbound2@groupondev.opsgenie.net']",11432839
+ECE Prediction for Emails in Non-English,/prod/healthcheck?scope=internal,ece-email.groupondev.com,['cs_ds@groupon.com'],11454104
+Booking-Tool-Customer [US],/merchant/center/reservations/client_login,www.groupon.com,['booking-tool-engineers@groupon.com'],11518673
+Mobile Logging - Public Endpoint,/grpn/healthcheck,logging.groupon.com,"['lex-emea-alerts@groupondev.opsgenie.net', 'lex-emea-alerts@groupon.pagerduty.com']",11584133
+Career [jobs.groupon.com],/,jobs.groupon.com,['hris-techsrvc@groupon.com'],11835383
+Coupons booking.com [UK] [www.groupon.co.uk] [EMEA],/discount-codes/booking-com,www.groupon.co.uk,['coupons-alerts@groupon.com'],12165666
+Coupons B&Q [UK] [www.groupon.co.uk] [EMEA],/discount-codes/bandq,www.groupon.co.uk,['coupons-alerts@groupon.com'],12165669
+Coupons Matalan [UK] [www.groupon.co.uk] [EMEA],/discount-codes/matalan,www.groupon.co.uk,['coupons-alerts@groupon.com'],12165671
+Coupons Harvester [UK] [www.groupon.co.uk] [EMEA],/discount-codes/harvester,www.groupon.co.uk,['coupons-alerts@groupon.com'],12165673
+Coupons The-Home-Depot [US] [www.groupon.com] [North America],/coupons/the-home-depot,www.groupon.com,['coupons-alerts@groupon.com'],12165732
+Coupons Sams-Club [US] [www.groupon.com] [North America],/coupons/sams-club,www.groupon.com,['coupons-alerts@groupon.com'],12165739
+Groupon ANZ Host,/,groupon.com.au,[],1604101
+Groupon Terms,/legal/termsofservice,www.groupon.com,['pingdom@groupon.com'],12327839
+Groupon Policies,/policies,privacy.groupon.com,['pingdom@groupon.com'],12327857
+Groupon Accessibility,/legal/accessibility,www.groupon.com,['pingdom@groupon.com'],12327858
+Living Social Terms,/legal/termsofservice,www.livingsocial.com,['pingdom@groupon.com'],12376634
+Category Page [Germany] [www.groupon.de] [EMEA],/gutscheine/freizeit-und-events,www.groupon.de,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",12391382
+Search [Germany] [www.groupon.de] [EMEA],/search?query=golf,www.groupon.de,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net', 'ion+alerts+emergencies@groupon.pagerduty.com', 'ion+alerts+emergencies@groupondev.opsgenie.net']",12391386
+Browse [UK] - beauty-and-spas,/vouchers/beauty-and-spas,www.groupon.co.uk,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net']",12391474
+Browse [IT] - wellness-and-spa,/offerte/centri-benessere,www.groupon.it,"['incident-management@groupon.com', 'imoc-alerts@groupondev.opsgenie.net']",12391483
