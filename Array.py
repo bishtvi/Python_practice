@@ -17,6 +17,7 @@ vals = array('i',[5,9,8,4,2])
 newArr = array(vals.typecode,(a*a for a in vals))
 for e in newArr:
       print(e)
+<<<<<<< HEAD
 
 ########
 vals = array('i', [5,9,8,4,2])
@@ -39,3 +40,5 @@ for i in range(n):
     arr.append(x)
 
 print(arr)
+=======
+>>>>>>> origin/main
